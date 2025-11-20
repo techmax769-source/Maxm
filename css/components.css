@@ -1,0 +1,15 @@
+.app-root{min-height:calc(100vh - 96px);padding:18px}
+.card{background:var(--card);border-radius:var(--radius);overflow:hidden;box-shadow:0 6px 18px rgba(0,0,0,0.4);cursor:pointer;transition:transform var(--transition)}
+.card:hover{transform:translateY(-6px)}
+.card .thumb{width:100%;height:230px;object-fit:cover;background:linear-gradient(180deg, rgba(255,255,255,0.01), rgba(0,0,0,0.12))}
+.card .meta{padding:10px}
+.card .title{font-weight:600}
+.loader{height:200px;width:100%;display:flex;align-items:center;justify-content:center}
+.info-hero{border-radius:12px;overflow:hidden;margin-bottom:12px}
+.info-hero .backdrop{height:320px;background-size:cover;background-position:center}
+.info-content{background:var(--card);padding:16px;border-radius:12px}
+.media-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:12px}
+.toast-root{position:fixed;right:16px;bottom:16px;z-index:9999}
+.toast{padding:12px;border-radius:8px;margin-top:8px;box-shadow:0 6px 18px rgba(0,0,0,0.4)}
+.toast.info{background:#222;color:#fff}
+.toast.error{background:#a12;color:#fff}
