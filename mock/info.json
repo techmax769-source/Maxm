@@ -1,0 +1,16 @@
+{
+  "status":200,
+  "success":true,
+  "creator":"GiftedTech",
+  "results":{
+    "subject":{
+      "subjectId":"2540915058863915040",
+      "title":"The Manipulated",
+      "description":"A sample description.",
+      "releaseDate":"2025-11-05",
+      "thumbnail":"https://pbcdnw.aoneroom.com/image/2025/11/15/4a66c3d8f55c478810f37aad46205388.jpg",
+      "poster":"https://pbcdnw.aoneroom.com/image/2025/11/15/4a66c3d8f55c478810f37aad46205388.jpg",
+      "hasResource":true
+    }
+  }
+}
