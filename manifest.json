@@ -1,0 +1,12 @@
+{
+  "name": "MaxMovies",
+  "short_name": "MaxMovies",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1115",
+  "theme_color": "#1db954",
+  "icons": [
+    {"src":"/assets/icon-192.png","type":"image/png","sizes":"192x192"},
+    {"src":"/assets/icon-512.png","type":"image/png","sizes":"512x512"}
+  ]
+}
