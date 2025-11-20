@@ -1,0 +1,5 @@
+/* simple responsive tweaks */
+@media (max-width:700px){
+  .media-grid{grid-template-columns:repeat(2,1fr)}
+  .site-header{padding:10px}
+}
