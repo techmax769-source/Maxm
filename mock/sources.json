@@ -1,0 +1,17 @@
+{
+  "status":200,
+  "success":true,
+  "creator":"GiftedTech",
+  "results":[
+    {
+      "label":"HLS",
+      "url":"https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "quality":"auto"
+    },
+    {
+      "label":"MP4",
+      "url":"https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
+      "quality":"480p"
+    }
+  ]
+}
